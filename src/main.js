@@ -28,6 +28,8 @@ import * as filters from './filters' // global filters
  * import { mockXHR } from '../mock'
  * mockXHR()
  */
+import { mockXHR } from '../mock'
+mockXHR()
 
 Vue.use(Element, {
   size: Cookies.get('size') || 'medium', // set element-ui default size

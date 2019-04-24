@@ -27,6 +27,7 @@ export default {
     keyboardChart: 'Keyboard Chart',
     lineChart: 'Line Chart',
     mixChart: 'Mix Chart',
+    tabChart: 'Tab Chart',
     example: 'Example',
     nested: 'Nested Routes',
     menu1: 'Menu 1',
